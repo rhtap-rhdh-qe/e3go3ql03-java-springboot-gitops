@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: e3go3ql03-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/e3go3ql03-java-springboot
